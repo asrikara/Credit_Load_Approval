@@ -1,14 +1,14 @@
 # Credit_Load_Approval
 
-##Overview:
+#Overview:
 
 This project focuses on building a credit scoring model using data from two CSV files: application_record.csv and credit_record.csv. The goal is to predict the credit status of individuals based on various features from their application records and credit history.
 
-##Project Structure:
+#Project Structure:
 
 The project is organized into the following sections:
 
-##Importing Libraries and Data:
+#Importing Libraries and Data:
 
 The necessary Python libraries, including Pandas, NumPy, Seaborn, Matplotlib, and scikit-learn, are imported.
 Two datasets, application_record.csv and credit_record.csv, are read into Pandas DataFrames.
