@@ -1,4 +1,4 @@
-# Credit_Load_Approval
+# Credit_Loan_Approval
 
 ## Overview:
 
